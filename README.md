@@ -9,14 +9,14 @@ IP Watchtower is a simple Python tool that allows you to perform DNS lookup and 
 * requests library (install using pip install requests)
 
 # How to Use
-Clone this repository to your local machine or download the ipwatchtower.py file.
-Install the required requests library by running the following command: pip install requests.
-Run the ipwatchtower.py script using Python: python ipwatchtower.py.
-Choose one of the following options:
-  Option 1: Perform DNS lookup - Enter a domain name to get its corresponding IP address.
-  Option 2: Perform IP lookup - Enter an IP address to get its geographical information.
-  Option 3: Perform both DNS and IP lookup - Enter a domain name to get its IP address and then retrieve its geographical information.
-  Option 4: Exit - Terminate the program.
+1. Clone this repository to your local machine or download the ipwatchtower.py file.
+2. Install the required requests library by running the following command: pip install requests.
+3. Run the ipwatchtower.py script using Python: python ipwatchtower.py.
+4. Choose one of the following options:
+  * Option 1: Perform DNS lookup - Enter a domain name to get its corresponding IP address.
+  * Option 2: Perform IP lookup - Enter an IP address to get its geographical information.
+  * Option 3: Perform both DNS and IP lookup - Enter a domain name to get its IP address and then retrieve its geographical information.
+  * Option 4: Exit - Terminate the program.
 
 # Usage Examples
 1. Perform DNS lookup:
